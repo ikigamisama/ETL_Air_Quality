@@ -6,7 +6,7 @@ A Python ETL pipeline for collecting and processing air quality data from cities
 
 ## Description
 
-This project extracts air quality data for Philippine cities from January 1, 2025 to June 1, 2025. It downloads a comprehensive list of cities from OpenWeatherMap's bulk data, filters for Philippine cities, and then collects historical air pollution data for each location.
+This project extracts air quality data for Philippine cities from January 1, 2025 to June 1, 2025. It downloads a comprehensive list of cities from OpenWeatherMap's bulk data, filters for Philippine cities, and then collects historical air pollution data for each locations.
 
 ## Features
 
