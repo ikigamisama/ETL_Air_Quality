@@ -1,5 +1,7 @@
 # Air_Quality_Data_PH
 
+![alt text](image.png)
+
 A Python ETL pipeline for collecting and processing air quality data from cities across the Philippines using the OpenWeatherMap API.
 
 ## Description
